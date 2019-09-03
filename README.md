@@ -1,2 +1,2 @@
 # Data-Science-and-Health
-Duke BME590 Coursework & Project
+Duke BME590 Coursework
